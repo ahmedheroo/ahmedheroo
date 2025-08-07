@@ -57,7 +57,7 @@ Experienced Software Developer with a strong background in designing, installing
 ## 📫 Get in Touch
 
 <!-- Add your social links or contact details below when ready -->
-- [LinkedIn](https://www.linkedin.com/in/amha)  
+- [LinkedIn](https://www.linkedin.com/in/amha20)  
 - Email: ahmedhsnhero2014@gmail.com
 
 ---
